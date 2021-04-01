@@ -6,7 +6,7 @@ int main() {
 	float r; float h; float S; float V;//ведення зміних
 	float p;
 
-	setlocale(LC_CTYPE, "ru");//міняємо мову
+	setlocale(LC_CTYPE, "ru");//додаєм кирилицю
 	printf("Вед1ть рад1ус r\n");//виведення данних на екран
 	scanf("%f",&r); //ведення
 	printf("Вед1ть рад1ус h\n");//виведення данних на екран

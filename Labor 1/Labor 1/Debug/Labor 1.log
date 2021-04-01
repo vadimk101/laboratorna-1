@@ -1,0 +1,4 @@
+﻿  main.c
+R:\bts\Labor 1\Labor 1\Labor 1\main.c(15,13): warning C4305: =: усечение из "double" в "float"
+R:\bts\Labor 1\Labor 1\Labor 1\main.c(18,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Labor 1.vcxproj -> R:\bts\Labor 1\Labor 1\Debug\Labor 1.exe
